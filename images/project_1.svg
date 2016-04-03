@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="300" height="81" viewBox="0 0 300 81">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #969696;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 66.667px;
+      }
+
+      .cls-4 {
+        font-family: "BrandonGrotesque-Light";
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 100px;
+      }
+
+      .cls-6 {
+        font-family: "Arial";
+      }
+
+      .cls-7 {
+        fill: #585858;
+      }
+
+      .cls-8 {
+        fill: #ffd200;
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="M9.692,1.851 L68.769,1.851 C73.867,1.851 78.000,5.984 78.000,11.082 L78.000,70.381 C78.000,75.479 73.867,79.611 68.769,79.611 L9.692,79.611 C4.594,79.611 0.462,75.479 0.462,70.381 L0.462,11.082 C0.462,5.984 4.594,1.851 9.692,1.851 Z" class="cls-1"/>
+    <path d="M102.054,18.221 L86.430,34.992 L47.287,-1.744 L62.911,-18.515 L102.054,18.221 Z" class="cls-2"/>
+    <text transform="translate(13 47) scale(0.25 0.25)" class="cls-3"><tspan class="cls-4">&lt;code&gt;</tspan></text>
+    <text transform="translate(91 52) scale(0.33 0.33)" class="cls-5"><tspan class="cls-5"><tspan class="cls-6">my<tspan class="cls-7"> <tspan class="cls-8">p</tspan></tspan>ortfolio.</tspan></tspan></text>
+  </g>
+</svg>
